@@ -1,0 +1,12 @@
+C:\Users\tedyg\Desktop\Velly\Tomov\WinformsCRUD\WinformsCRUD\bin\Debug\WinformsCRUD.exe.config
+C:\Users\tedyg\Desktop\Velly\Tomov\WinformsCRUD\WinformsCRUD\bin\Debug\WinformsCRUD.exe
+C:\Users\tedyg\Desktop\Velly\Tomov\WinformsCRUD\WinformsCRUD\bin\Debug\WinformsCRUD.pdb
+C:\Users\tedyg\Desktop\Velly\Tomov\WinformsCRUD\WinformsCRUD\obj\Debug\WinformsCRUD.csprojAssemblyReference.cache
+C:\Users\tedyg\Desktop\Velly\Tomov\WinformsCRUD\WinformsCRUD\obj\Debug\WinformsCRUD.Form1.resources
+C:\Users\tedyg\Desktop\Velly\Tomov\WinformsCRUD\WinformsCRUD\obj\Debug\WinformsCRUD.Properties.Resources.resources
+C:\Users\tedyg\Desktop\Velly\Tomov\WinformsCRUD\WinformsCRUD\obj\Debug\WinformsCRUD.csproj.GenerateResource.cache
+C:\Users\tedyg\Desktop\Velly\Tomov\WinformsCRUD\WinformsCRUD\obj\Debug\WinformsCRUD.csproj.CoreCompileInputs.cache
+C:\Users\tedyg\Desktop\Velly\Tomov\WinformsCRUD\WinformsCRUD\obj\Debug\WinformsCRUD.exe
+C:\Users\tedyg\Desktop\Velly\Tomov\WinformsCRUD\WinformsCRUD\obj\Debug\WinformsCRUD.pdb
+C:\Users\tedyg\Desktop\Velly\Tomov\WinformsCRUD\WinformsCRUD\bin\Debug\ContactDB.mdf
+C:\Users\tedyg\Desktop\Velly\Tomov\WinformsCRUD\WinformsCRUD\bin\Debug\ContactDB_log.ldf
